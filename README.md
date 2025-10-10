@@ -12,6 +12,6 @@ A tool to reverse the frames of a video using CompfyUI.
 
 3.  Restart ComfyUI
 
-You will find the new Video Reverse node in the Nodes menu item under SBCODE.
+You will find the new **Video Reverse** node in the **Nodes** menu item under **SBCODE**.
 
 Or you can double click the workspace and search for `video reverse`.
