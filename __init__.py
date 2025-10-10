@@ -12,14 +12,15 @@ class VideoReverseNode:
     CATEGORY = "SBCODE"
 
     def reverse(self, frames):
-        if frames is None or len(frames) == 0:
-            return {}
+        if frames is None or (hasattr(frames, "numel") and frames.numel() == 0):
+            print("[VideoReverseNode] No frames received.")
+            return (frames,)
 
-        frames.reverse()
+        reversed_frames = frames.flip(0)
 
-        print("The video frames have now been reversed.")
+        print("[VideoReverseNode] The video frames have been reversed.")
 
-        return (frames,)
+        return (reversed_frames,)
 
 
 NODE_CLASS_MAPPINGS = {"VideoReverseNode": VideoReverseNode}
