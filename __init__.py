@@ -8,6 +8,7 @@ class VideoReverseNode:
         }
 
     RETURN_TYPES = ("IMAGE",)
+    RETURN_NAMES = ("frames",)
     FUNCTION = "reverse"
     CATEGORY = "SBCODE"
 
