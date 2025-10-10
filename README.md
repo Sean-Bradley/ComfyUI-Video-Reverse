@@ -1,6 +1,6 @@
 # ComfyUI Video Reverse
 
-A tool to reverse the frames of video type files such as MP4, WebM, WebP and Animated GIF by using ComfyUI.
+A tool to reverse the frames of video type files such as MP4, WebM, Animated WebP and Animated GIF by using ComfyUI.
 
 ## Install ComfyUI Video Reverse
 
@@ -18,7 +18,7 @@ Or you can double click the workspace and search for `video reverse`.
 
 ## Example Usage
 
-### WebP to Reversed WebP
+### Animated WebP to Reversed Animated WebP
 
 ![](./img/webp-2-reversed-webp.jpg)
 
@@ -26,7 +26,7 @@ Or you can double click the workspace and search for `video reverse`.
 
 ![](./img/mp4-2-reversed-mp4-using-VHS.jpg)
 
-### WebP to Reversed WebM
+### Animated WebP to Reversed WebM
 
 ![](./img/webp-2-reversed-webm.jpg)
 
