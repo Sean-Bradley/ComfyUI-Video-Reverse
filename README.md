@@ -4,7 +4,7 @@ A tool to reverse the frames of a video using ComfyUI.
 
 # Install ComfyUI Video Reverse
 
-1.  Navigate to your ComfyUI/custom_nodes folder.
+1.  Navigate to your `ComfyUI/custom_nodes` folder.
 
 2.  Run,
 
