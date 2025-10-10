@@ -8,7 +8,7 @@ A tool to reverse the frames of a video using ComfyUI.
 
 2.  Run,
 
-    git clone https://github.com/Sean-Bradley/ComfyUI-Image-Compare.git
+    `git clone https://github.com/Sean-Bradley/ComfyUI-Image-Compare.git`
 
 3.  Restart ComfyUI
 
