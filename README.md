@@ -4,15 +4,21 @@ A tool to reverse the frames of video type files such as MP4, WebM, Animated Web
 
 ## Install ComfyUI Video Reverse
 
+Install the ComfyUI Video Reverse custom node using the manager,
+
+![](./img/manager-search.jpg)
+
+Or you can use your command/terminal prompt.
+
 1.  Navigate to your `ComfyUI/custom_nodes` folder.
 
 2.  Run,
 
-    `git clone https://github.com/Sean-Bradley/ComfyUI-Image-Compare.git`
+    `git clone https://github.com/Sean-Bradley/ComfyUI-Video-Reverse`
 
 3.  Restart ComfyUI
 
-You will find the new **Video Reverse** node in the **Nodes** menu item under **SBCODE**.
+You will find the new **Video Reverse** node in the **Nodes** menu under **SBCODE**.
 
 Or you can double click the workspace and search for `video reverse`.
 
