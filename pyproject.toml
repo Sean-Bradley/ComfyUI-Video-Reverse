@@ -29,8 +29,8 @@ Documentation = "https://github.com/Sean-Bradley/ComfyUI-Video-Reverse/wiki"
 
 [tool.comfy]
 PublisherId = ""
-DisplayName = "ComfyUI-Video-Reverse"
-Icon = ""
+DisplayName = "ComfyUI Video Reverse"
+Icon = "https://avatars.githubusercontent.com/u/59069470"
 includes = [] 
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
 
