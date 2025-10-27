@@ -28,7 +28,7 @@ Documentation = "https://github.com/Sean-Bradley/ComfyUI-Video-Reverse/wiki"
 "Bug Tracker" = "https://github.com/Sean-Bradley/ComfyUI-Video-Reverse/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "sbcode"
 DisplayName = "ComfyUI Video Reverse"
 Icon = "https://avatars.githubusercontent.com/u/59069470"
 includes = [] 
